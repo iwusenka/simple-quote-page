@@ -1,0 +1,15 @@
+body {
+    background: url('assets/freedom.jpg');
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2rem;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: .5rem;
+}
